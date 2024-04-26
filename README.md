@@ -3,6 +3,8 @@
 My name is Felipe Catani,
 I am Director of Public Policies and Research and Development at the Secretariat of Science, Technology and Innovation of Pato Branco.
 
+**Enthusiast in DevOps and cloud infrastructure**
+
 ### Cloud Specialist
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
 ----
