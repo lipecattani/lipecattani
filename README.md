@@ -17,26 +17,10 @@ I am Director of Public Policies and Research and Development at the Secretariat
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
+### Stats
+![Cattani's GitHub stats](https://github-readme-stats-delta-coral.vercel.app/api?username=Lipecattani&show_icons=true&layout=compact&theme=transparent&rank_icon=github)
 
-<a href="https://github.com/lipecattani/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-delta-coral.vercel.app/api?username=Lipecattani&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/lipecattani/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-delta-coral.vercel.app/api/top-langs?username=Lipecattani&langs_count=8&layout=compact&theme=transparent" />
-</a>
-
+![Cattani's GitHub stats Languages](https://github-readme-stats-delta-coral.vercel.app/api/top-langs?username=Lipecattani&langs_count=8&layout=compact&theme=transparent)
           
-<!--
-**lipecattani/lipecattani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats-omega-tawny.vercel.app/?user=lipecattani&theme=buefy-dark&fire=EB5454)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
