@@ -17,7 +17,13 @@ I am Director of Public Policies and Research and Development at the Secretariat
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-![Cattani's GitHub stats](https://github-readme-stats-delta-coral.vercel.app/api?username=Lipecattani&show_icons=true&theme=transparent)          
+
+<a href="https://github.com/lipecattani/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-delta-coral.vercel.app/api?username=Lipecattani&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/lipecattani/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-delta-coral.vercel.app/api/top-langs?username=Lipecattani&langs_count=8&layout=compact&theme=transparent" />
+</a>
 
           
 <!--
