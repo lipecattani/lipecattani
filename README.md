@@ -4,9 +4,9 @@ My name is Felipe Catani,
 I am Director of Public Policies and Research and Development at the Secretariat of Science, Technology and Innovation of Pato Branco.
 
 ### Graduation and Specializations
-Graduate in Public Management
-Post-Graduate in Production Engineering
-[Google Cloud Skills](https://partner.cloudskillsboost.google/public_profiles/00e99583-3173-4eda-a2b9-ebba0365a8db)  
+- Graduate in Public Management
+- Post Graduate in Production Engineering
+- [Google Cloud Skills](https://partner.cloudskillsboost.google/public_profiles/00e99583-3173-4eda-a2b9-ebba0365a8db)  
 
 **Enthusiast in DevOps and cloud infrastructure**
 
