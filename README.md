@@ -25,7 +25,7 @@ I am Director of Public Policies and Research and Development at the Secretariat
 ### Stats
 ![Cattani's GitHub stats](https://github-readme-stats-delta-coral.vercel.app/api?username=Lipecattani&show_icons=true&show=reviews&layout=compact&theme=transparent&rank_icon=github)
 
-![Cattani's GitHub stats Languages](https://github-readme-stats-delta-coral.vercel.app/api/top-langs?username=Lipecattani&langs_count=8&hide=mustache&layout=compact&theme=transparent)
+![Cattani's GitHub stats Languages](https://github-readme-stats-delta-coral.vercel.app/api/top-langs?username=Lipecattani&langs_count=10&layout=compact&theme=transparent)
           
 [![GitHub Streak](https://github-readme-streak-stats-omega-tawny.vercel.app/?user=lipecattani&theme=buefy-dark&fire=EB5454)](https://git.io/streak-stats)
 
