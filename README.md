@@ -1,5 +1,7 @@
 ## Hey there, i'm Cattani👋
 
+![](https://komarev.com/ghpvc/?username=lipecattani)
+
 My name is Felipe Catani,
 I am Director of Public Policies and Research and Development at the Secretariat of Science, Technology and Innovation of Pato Branco.
 
